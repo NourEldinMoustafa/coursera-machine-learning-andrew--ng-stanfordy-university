@@ -23,7 +23,7 @@ In this exercise, i implemented linear regression and recognized how it work on 
  * Normal Equation Noninvertibility
  * Programming Assignments
  * Linear Regression with Multiple Variables
-
+--------------
 ## Week 3 :– Classification and Logistic Regression
 ## Programming Exercise 2: Logistic Regression
 In this exercise, you will implement logistic regression and apply it to two different datasets.
@@ -40,7 +40,7 @@ In this exercise, you will implement logistic regression and apply it to two dif
 * Solving The Problem of Overfitting
 * Cost Function
 * Regularized Logistic Regression
-
+--------------
 ## Week 4 :– Neural Networks: Representation
 ## Programming Exercise 3: Multi-class Classification and Neural Networks
 In this exercise, you will implement one-vs-all logistic regression and feedforward propagation for neural networks to recognize handwritten digits.
@@ -53,7 +53,7 @@ In this exercise, you will implement one-vs-all logistic regression and feedforw
  * Model Representation II
  * Applications, ReadingExamples and Intuitions I
  * Multiclass Classification
-
+--------------
 ## Week 5 :– Neural Networks: Learning	
 ## Programming Exercise 4: Neural Network Learning
 In this exercise, you will implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition.
@@ -67,7 +67,7 @@ In this exercise, you will implement the backpropagation algorithm for neural ne
 * VideoPutting It Together
 * Application of Neural Networks
 * Autonomous Driving
-
+--------------
 ## Week 6 – Best practices for applying machine learning in practice
 ## Programming Exercise 5: Regularized Linear Regression and Bias vs Variance
 In this exercise, you will implement regularized linear regression and polynomial regression and use it to study models with different bias-variance properties.
@@ -90,7 +90,7 @@ In this exercise, you will implement regularized linear regression and polynomia
 * Error Metrics for Skewed Classes
 * Trading Off Precision and Recall
 * Using Large Data Sets
-
+--------------
 ## Week 7 :– Support Vector Machines
 ## Programming Exercise 6: Support Vector Machines
 In this exercise, you will implement support vector machine (SVM) with Gaussian Kernels and you will be using support vector machines (SVMs) to build a spam classifier.
@@ -103,7 +103,7 @@ In this exercise, you will implement support vector machine (SVM) with Gaussian 
 * Kernels II
 * SVMs in Practice
 * Using An SVM
-
+--------------
 ## Week 8 :– Unsupervised Learning
 ## Programming Exercise 7: K-means Clustering and Principal Component Analysis
 In this exercise, you will implement the K-means clustering algorithm and apply it to compress an image. In the second part, you will use principal component analysis to find a low-dimensional representation of face images.
@@ -124,19 +124,19 @@ In this exercise, you will implement the K-means clustering algorithm and apply 
 * Reconstruction from Compressed Representation
 * Choosing the Number of Principal Components
 * Advice for Applying PCA
-
+--------------
 ## Week 9 :– Anomaly Detection
 ## Programming Exercise 8: Anomaly Detection and Recommender Systems
 In this exercise, you will implement the anomaly detection algorithm and apply it to detect failing servers on a network. In the second part, you will use collaborative filtering to build a recommender system for movies.
 ## week topics:
 	
-
+--------------
 ## Week 10
 ## week topics:
-
+--------------
 ## Week 11
 ## week topics:
-
+--------------
 ## Week 12
 ## week topics:
 
