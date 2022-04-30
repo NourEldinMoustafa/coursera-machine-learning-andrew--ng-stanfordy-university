@@ -1,8 +1,8 @@
 # ML-Andrew-Ng
-# Quiz 1
-![t1.png](https://github.com/AyaKhaledYousef/ML-Andrew-Ng/blob/main/Week%201/Linear%20Algebra/ml1.png)
-![t1.png](https://github.com/AyaKhaledYousef/ML-Andrew-Ng/blob/main/Week%201/Linear%20Algebra/2.png)
-![t1.png](https://github.com/AyaKhaledYousef/ML-Andrew-Ng/blob/main/Week%201/Linear%20Algebra/3.png)
-![t1.png](https://github.com/AyaKhaledYousef/ML-Andrew-Ng/blob/main/Week%201/Linear%20Algebra/4.png)
-![t1.png](https://github.com/AyaKhaledYousef/ML-Andrew-Ng/blob/main/Week%201/Linear%20Algebra/5.png)
+## screen notebooks to remember : 
+![1-cost function equation minimzing J.error](https://github.com/NourEldinMoustafa/coursera-machine-learning-andrew--ng-stanfordy-university/blob/main/week1/3.cost%20function%20equation.PNG)
+![2-num of itrations for gradient descent to stop](https://github.com/NourEldinMoustafa/coursera-machine-learning-andrew--ng-stanfordy-university/blob/main/week1/num%20of%20itrations.JPG)
+![3-a question to answer](https://github.com/NourEldinMoustafa/coursera-machine-learning-andrew--ng-stanfordy-university/blob/main/week1/num%20of%20itrations1.JPG)
+![4-multi variables](https://github.com/NourEldinMoustafa/coursera-machine-learning-andrew--ng-stanfordy-university/blob/main/week1/res.JPG)
+![5-choosing theta values](https://github.com/NourEldinMoustafa/coursera-machine-learning-andrew--ng-stanfordy-university/blob/main/week1/res1.JPG)
 
