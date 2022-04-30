@@ -7,7 +7,7 @@
 * Model Representation
 * VideoCost Function - Intuition
 * Gradient Descent For Linear Regression
-|--------------|
+--------------
 ## Week 2 :–  Supervised Learning and Linear Regression
 ## Programming Exercise 1: Linear Regression
 In this exercise, i implemented linear regression and recognized how it work on real world datasets.		
