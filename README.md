@@ -3,82 +3,127 @@
  ## Module 1 – Introduction to Machine Learning
  ## Module 2 – Supervised Learning and Linear Regression
  ## Module 3 – Classification and Logistic Regression
- ## Module 4 – Decision Tree and Random Forest
- ## Module 5 – Naïve Bayes and Support Vector Machine
- ## Module 6 – Unsupervised Learning
- ## Module 7 – Natural Language Processing and Text Mining
- ## Module 8 – Introduction to Deep Learning
- ## Module 9 – Time Series Analysis
+ ## Module 4 – Neural Networks: Representation
+ ## Module 5 – Neural Networks: Learning
+ ## Module 6 – Best practices for applying machine learning in practice
+ ## Module 7 – Support Vector Machines
+ ## Module 8 – Unsupervised Learning
+ ## Module 9 – Anomaly Detection
     
     
 ## Week 1
-Introduction to ML
-Reinforcement Learning
-Unsupervised Learning
-Supervised Learning
+* Introduction to ML
+* Linear Regression with One Variable
+* Linear Algebra Review
+* Supervised Learning
+* Model Representation
+* VideoCost Function - Intuition
+* Gradient Descent For Linear Regression
 
 ## Week 2		
-Linear Regression		
-Multivariate Regression		
-Partial Least Squares		
-Shrinkage Methods		
+* Linear Regression		
+* Multivariate Linear Regression
+* Multiple Features
+* Gradient Descent For Multiple Variables
+* Gradient Descent in Practice I - Feature Scaling
+* Gradient Descent in Practice - Learning Rate
+* Features and Polynomial Regression
+* Computing Parameters Analytically
+* Normal Equation Noninvertibility
+* Programming Assignments
+* Linear Regression with Multiple Variables
 
 ## Week 3	
-Linear Discr iminant Analysis	
-Linear Classification	
-Logistic Regression	
-Project	
+* Classification and Representation
+* Hypothesis Representation
+* Decision Boundary
+* Logistic Regression Model
+* Simplified Cost Function and Gradient Descent
+* dvanced Optimization
+* Multiclass Classification
+* Multiclass Classification: One-vs-all
+* Regularization, which helps prevent models from overfitting the training data.
+* Solving The Problem of Overfitting
+* Cost Function
+* Regularized Logistic Regression
 
 ## Week 4
-Support Vector Machines
-Hinge Loss Formulation
-Perceptron Learning
+* Neural Networks: Representation
+ * Non-linear Hypotheses
+ * Neurons and the Brain
+ * Neural Networks
+ * Model Representation I
+ * Model Representation II
+ * Applications, ReadingExamples and Intuitions I
+ * Multiclass Classification
+
 ## Week 5			
-Artificial Neural Networks			
-Training and Validation			
-Parameter Estimations			
+* Cost Function and Backpropagation
+* Backpropagation Algorithm & Intuition
+* Backpropagation in Practice
+* Implementation Note: Unrolling Parameters
+* Gradient Checking
+* Random Initialization
+* VideoPutting It Together
+* Application of Neural Networks
+* Autonomous Driving
 
 ## Week 6
-Regression Trees
-Decision Trees
-Decision Trees Examples
+* Evaluating a Learning Algorithm
+* Evaluating a Hypothesis
+* Model Selection and Train/Validation/Test Sets
+* Bias vs. Variance
+* Diagnosing Bias vs. Variance
+* Regularization and Bias/Variance
+* Regularization and Bias/Variance
+* Learning Curves
+* Deciding What to do Next Revisited
+* Regularized Linear Regression and Bias/Variance
+* Machine Learning System Design
+* Building a Spam Classifier
+* Prioritizing What to Work On
+* Error Analysis
+* Handling Skewed Data
+* Error Metrics for Skewed Classes
+* Trading Off Precision and Recall
+* Using Large Data Sets
 
 ## Week 7	
-ROC Curve	
-Evaluation Measures	
-Ensemble Methods	
-
-## Week s
-Random Forests
-Bayesian Networks
-Gradient
-Boosting
-Naive Bayes
-Minimum Desc. Lgth Analysis	
+* Large Margin Classification
+* Optimization Objective
+* Large Margin Intuition
+* Mathematics Behind Large Margin Classification
+* Kernels I
+* Kernels II
+* SVMs in Practice
+* Using An SVM
 
 ## Week 8
-Random Forests
-Bayesian Networks
-Gradient
-Boosting
-Naive Bayes
+* Clustering
+* Unsupervised Learning: Introduction
+* K-Means Algorithm
+* Optimization Objective
+* Random Initialization
+* Choosing the Number of Clusters
+* Unsupervised Learning
+* Dimensionality Reduction
+* Motivation I: Data Compression
+* Motivation II: Visualization
+* Principal Component Analysis Problem Formulation
+* Principal Component Analysis Algorithm
+* Applying PCA
+* Reconstruction from Compressed Representation
+* Choosing the Number of Principal Components
+* Advice for Applying PCA
 
 ## Week 9		
-Hidden Markov Models		
-Treewidth and belief		
-Undirected Graphical Method		
+	
 
 ## Week 10
-Clustering
-Birch and Cure Algorithms
 
 ## Week 11			
-Expectation Maximization			
-Gaussian Mixture Models			
 
 ## Week 12
-Reinforcement Learning
-Linear Theory
 
    
   
